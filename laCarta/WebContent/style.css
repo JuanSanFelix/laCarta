@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+	background-color: white;
+}
+ul.ul1 {
+	list-style-type: circle;
+}
+ul.ul2 {
+	list-style-type: decimal;
+}
+ul.ul3 {
+	list-style-type: upper-roman;
+}
+ul.ul4 {
+	list-style-type: lower-latin;
+}
